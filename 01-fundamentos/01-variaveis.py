@@ -1,4 +1,4 @@
-__name__  = input("Qual é o seu nome") 
+name  = input("Qual é o seu nome") 
 age = input("Qual é a sua idade?")    
 city = input("Qual é a sua cidade?")
 profession = input("Qual é a sua profissão?")
